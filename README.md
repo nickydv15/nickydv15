@@ -43,6 +43,17 @@ I enjoy building practical projects, exploring new technologies, and continuousl
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+### 🤖 Generative AI & Agentic AI
+
+- Generative AI
+- LLMs
+- AI Agents / Agentic AI
+- Prompt Engineering
+- RAG
+- Embeddings
+- Vector Databases
+- Mem0
+- Ollama
 
 ## 🤖 AI & Data Science
 
