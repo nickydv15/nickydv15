@@ -274,7 +274,6 @@ Introduction to Cybersecurity
 <img src="https://img.shields.io/badge/GitHub-Niranjan%20Kumar-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.linkedin.com/in/niranjan-kumar-2144a8341/">
-<img src="https://img.shields.io/badge/LinkedIn-Niranjan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
