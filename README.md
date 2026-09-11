@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Niranjan%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Generative+AI+Enthusiast;Agentic+AI+%7C+RAG+%7C+AI%2FML;Data+Science+%7C+Machine+Learning;Building+Practical+AI+Projects" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Science;Python+Full+Stack+Developer;Generative+AI+Enthusiast;Agentic+AI+%7C+RAG+%7C+AI%2FML;%7C+Machine+Learning;Building+Practical+AI+Projects" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -23,15 +23,15 @@
 
 👨‍💻 About Me
 
-I'm Niranjan Kumar, an aspiring Python Full Stack Developer passionate about Generative AI, Agentic AI, Data Science, Machine Learning, and Data Analytics.
+I'm Niranjan Kumar, an aspiring Data Science passionate about Python Full Stack Developer Generative AI, Agentic AI, Machine Learning, and Data Analytics.
 
 I enjoy building practical projects that combine software development with AI and data-driven problem solving. My current learning journey focuses on developing intelligent applications, working with modern AI tooling, and strengthening full-stack development skills.
 
 🐍 Python Full Stack Developer
 
-🤖 Generative AI & Agentic AI
+🧠  Data Science & Machine Learning
 
-🧠 Machine Learning & Data Science
+🤖 Generative AI & Agentic AI
 
 📚 RAG, LLMs, Embeddings & AI Agents
 
@@ -48,7 +48,7 @@ I enjoy building practical projects that combine software development with AI an
 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
 </p>
 
 Frontend
@@ -66,7 +66,7 @@ Backend & Databases
 AI / ML & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,Data Science,NumPy,Matplotlib,Pandas,tensorflow,pytorch" />
 </p>
 
 <p>
